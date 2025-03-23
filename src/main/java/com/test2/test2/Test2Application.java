@@ -10,7 +10,8 @@ public class Test2Application {
 		String x = "mike";
 		int x = 100;
 		int y = 200;
-                   boolean isPresent = false;
+                   boolean isPresent = false
+		double z = 10.3;
 		SpringApplication.run(Test2Application.class, args);
 	}
 
