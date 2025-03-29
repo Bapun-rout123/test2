@@ -8,9 +8,9 @@ public class Test2Application {
 
 	public static void main(String[] args) {
 		String x = "mike";
-		int x = 100;
-		int y = 200;
-		double z = 10.3f;
+		int x = 10;
+		String y = "Hemanta";
+		
 		SpringApplication.run(Test2Application.class, args);
 	}
 
